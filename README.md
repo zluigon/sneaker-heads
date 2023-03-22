@@ -50,7 +50,7 @@ Utilize the following design specifications below with the properties above to a
 - `#6d00fb`
 - `#dbff39`
 - `#74c9f1`
-- `#fb4040)`
+- `#fb4040`
 
 ### Sizes:
 - `100%`
